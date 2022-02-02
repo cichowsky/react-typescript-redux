@@ -1,5 +1,8 @@
 # React, Typescript, ES Lint, Prettier, Redux - example
 
+redux config - `src/state`
+React + TypeScript examples - `src/typescript-examples`
+
 ---
 
 # Getting Started with Create React App
